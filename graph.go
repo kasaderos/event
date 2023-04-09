@@ -8,7 +8,7 @@ import (
 )
 
 // Logging is flag to log event executions
-var Logging = true
+var Logging = false
 
 type node struct {
 	event Event
