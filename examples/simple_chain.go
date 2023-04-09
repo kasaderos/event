@@ -17,7 +17,7 @@ func main() {
 		nil,
 	}
 	event2 := event.Event{
-		"Pass event1 to event3",
+		"Event passed",
 		nil,
 	}
 	event3 := event.Event{

@@ -48,5 +48,5 @@ func main() {
 
 ```
 Doing job
-2023-04-09T10:16:44+06:00 [events] Do job! -> Pass event1 to event3 -> *Job finished
+2023-04-09T10:34:14+06:00 [events] Do job! -> Event passed -> *Job finished
 ```
